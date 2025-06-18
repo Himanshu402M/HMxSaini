@@ -24,9 +24,9 @@ https://youtu.be/PYDtSTM6w44?si=noKPl7o4iU9SR_TO
 
 ## Deploy Via Buttons
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/nikhilsainiop/saini-txt-direct)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/Himanshu402M/HMxSaini)
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/xpingpongx/Extractor-V3&template=https://github.com/nikhilsainiop/saini-txt-direct)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/xpingpongx/Extractor-V3&template=https://github.com/Himanshu402M/HMxSaini)
 
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
 
@@ -34,11 +34,11 @@ https://youtu.be/PYDtSTM6w44?si=noKPl7o4iU9SR_TO
 
 
 Bot username
-@saini_contact_bot
-@saini_file_store_bot
+@BABA_TILLU_JI_Bot
+@BABA_TILLU_JI_Bot
 
 
 Repo 
-https://github.com/nikhilsainiop/saini-txt-direct
+https://github.com/Himanshu402M/HMxSaini
 
-https://github.com/cyberseller999/saini-txt-direct
+https://github.com/Himanshu402M/HMxSaini
